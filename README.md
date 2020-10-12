@@ -1,2 +1,2 @@
-# Fuzzy_logic_UFRRJ
-Fuzzy Logic for UFRRJ Classroom Students
+# Lógica Fuzzy para Estudantes da UFRRJ
+
